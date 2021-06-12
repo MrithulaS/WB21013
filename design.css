@@ -1,0 +1,61 @@
+.front{
+    width: 1400px;
+    height: 500px;
+    background-color:#94bbe9;
+    text-decoration: whitesmoke;
+
+}
+.btn{
+    cursor: pointer;
+    color: black;
+    font-size: 18px;
+    letter-spacing:2px;
+    padding: 10px 30px;
+    border: 2px solid white;
+    background:whitesmoke;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    margin: 40px 8px;
+}
+.btn2{
+    cursor: pointer;
+    color: black;
+    font-size: 18px;
+    letter-spacing:2px;
+    padding: 10px 30px;
+    border: 2px solid white;
+    background: whitesmoke;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    margin: 40px 8px;
+}
+.main{
+    text-align: right;
+    flex: 1;
+}
+.main{
+    padding: 6px 20px;
+    text-decoration:red;
+    color:red;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.list{
+    padding: 6px 20px;
+    text-decoration:red;
+    color:red;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.list{
+    width: 1400px;
+    height: 500px;
+    background-color:#94bbe9;
+    text-decoration: whitesmoke;
+}
